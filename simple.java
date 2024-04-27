@@ -1,5 +1,5 @@
-class Simple{
-	public static void main(string args[]){
-		sytem.out.println("Welcome to Gits online training ");
-	}
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Try programiz.pro");
+    }
 }
